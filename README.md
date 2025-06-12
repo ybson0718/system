@@ -1,5 +1,5 @@
 #  
-![](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🖥️시스템%20프로그래밍&fontSize=50&animation=fadeIn&fontAlignY=35&rotate=19)
+![](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=🖥️시스템%20프로그래밍🖱️&fontSize=50&animation=fadeIn&fontAlignY=35&rotate=19&fontAlign=60)
 
 | 주차 | 이동                    
 |:------|:---------------------------------------------------------------
