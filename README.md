@@ -16,4 +16,6 @@
 | 11주차 | [5월 16일](https://github.com/ybson0718/system/tree/main/0516) |
 | 12주차 |  [5월 23일](https://github.com/ybson0718/system/tree/main/0523) |
 | 13주차 |  [5월 30일](https://github.com/ybson0718/system/tree/main/0530) |
+| 14주차 |  [6월 6일](https://github.com/ybson0718/system/tree/main/0606) |
+
 
